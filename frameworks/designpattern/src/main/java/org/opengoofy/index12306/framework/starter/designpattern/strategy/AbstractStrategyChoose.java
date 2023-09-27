@@ -31,7 +31,7 @@ import java.util.regex.Pattern;
 /**
  * 策略选择器
  *
- * @公众号：马丁玩编程，回复：加群，添加马哥微信（备注：12306）获取项目资料
+ * @唐志鹏
  */
 public class AbstractStrategyChoose implements ApplicationListener<ApplicationInitializingEvent> {
 
